@@ -6,12 +6,11 @@ window.Config = {
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm792404289-fe1ad1fa10b964d7cbf834b2',
-    'm792405505-ceffa4d70ba5bbb4557dc7eb',
+    'ur2213391-a69139d8e63ea9ee8b44c04a'
   ],
 
   // 日志天数
-  CountDays: 90,
+  CountDays: 365,
 
   // 是否显示检测站点的链接
   ShowLink: false,
